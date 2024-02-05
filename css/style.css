@@ -1,0 +1,38 @@
+.nav {
+    list-style: none;
+    text-align: center;
+}
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+.copy{
+    font-size: 25px;
+    color: black;
+    background-color: darkturquoise;
+}
+.center {
+    display: block;
+    display: inline;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    width: 30%;
+  }
+  .right {
+        float: right;
+        margin-left: 10px;
+  }
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid;
+   color: azure;
+    background-color: rgb(38, 34, 137);
+  }
+  a {
+    color:white;
+  }
+  .margin{
+    text-align: right;
+  }
